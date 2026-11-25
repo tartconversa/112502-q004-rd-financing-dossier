@@ -1,0 +1,3 @@
+project,company,period,rd_budget,spent,stage
+R1,E1,2025Q3,780000,310000,prototype
+R2,E1,2025Q4,640000,0,pilot

@@ -1,0 +1,3 @@
+facility,bank,product,limit,months,security,source_ref
+F1,BankA,order-finance,900000,5,receivable,O1
+F2,BankB,innovation-loan,800000,15,guarantee,R1

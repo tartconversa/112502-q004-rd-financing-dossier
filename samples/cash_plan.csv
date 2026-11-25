@@ -1,0 +1,4 @@
+cash,order,kind,due,amount,certainty
+C1,O1,supplier_payment,2025-08-15,520000,committed
+C2,O1,acceptance_receipt,2025-10-30,1400000,conditional
+C3,O1,final_receipt,2025-11-20,1000000,conditional
